@@ -1,0 +1,11 @@
+To run the project:
+
+Step 1: download all dependencies by following:
+
+npm install
+
+Step 2: Run the server
+
+npm run server
+
+
